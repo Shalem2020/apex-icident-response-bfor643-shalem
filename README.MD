@@ -1,8 +1,8 @@
 # 🛡️ Cybersecurity Incident Response – Apex Financials  
 ### 🎓 Academic Project for BFOR 643 – Shalem Raju Maddirala
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/Shalem2020/apex-ir-bfor643-shalem?color=blue&style=flat-square)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Shalem2020/apex-ir-bfor643-shalem?color=green&style=flat-square)
+![GitHub Repo size](https://img.shields.io/github/repo-size/Shalem2020/apex-incident-response-bfor643-shalem?color=blue&style=flat-square)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Shalem2020/apex-incident-response-bfor643-shalem?color=green&style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Techniques%20Mapped-brightgreen?style=flat-square)
 ![Splunk](https://img.shields.io/badge/Splunk-Log%20Analysis%20Tool-orange?style=flat-square)
 
